@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+}
+h1 {
+  font-size: 30;
+  color: rgba(200, 10, 10, 1);
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 16;
+  color: rgba(0, 100, 0, 1);
+  margin-top: -5px;
+}
